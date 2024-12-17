@@ -10,7 +10,6 @@ author_profile: true
 </head>
 
 <br>
-<br>
 <p>Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.</p>
 
 ---
@@ -75,30 +74,38 @@ author_profile: true
 <div class="grid-wrapper">
   <!-- Mathematics Section -->
   <div class="grid-item">
+    <a href="/mathematics">
     <h3>Mathematics</h3>
-    <img src="https://via.placeholder.com/600x300" alt="Calculus">
+    <img src="assets/images/math_img.png" alt="Mathematics">
     <p>In this section, you'll find summaries of fundamental concepts such as calculus, linear algebra, transforms, and differential equations.</p>
+    </a>
   </div>
 
   <!-- Programming Section -->
   <div class="grid-item">
+    <a href="/programming">
     <h3>Programming</h3>
-    <img src="https://via.placeholder.com/600x300" alt="Programming">
+    <img src="assets/images/programming_img.png" alt="Programming">
     <p>Explore tutorials, projects, and algorithms developed with Python, applied to artificial intelligence, computer vision, and data analysis.</p>
+    </a>
   </div>
 
   <!-- Computer Vision Section -->
   <div class="grid-item">
+    <a href="/computer">
     <h3>Computer Vision</h3>
-    <img src="https://via.placeholder.com/600x300" alt="Computer Vision">
+    <img src="assets/images/computer_img.jpg" alt="Computer Vision">
     <p>Discover how technology allows us to process and understand images and videos, from convolutional neural networks to practical applications.</p>
+    </a>
   </div>
 
   <!-- Photography Section -->
   <div class="grid-item">
+    <a href="/photography">
     <h3>Photography</h3>
-    <img src="https://via.placeholder.com/600x300" alt="Photography">
+    <img src="assets/images/photo_img.jpg" alt="Photography">
     <p>Explore how technology transforms photography, from capturing high-quality images to advanced processing with algorithms, offering new ways to understand and create impactful images.</p>
+    </a>
   </div>  
 </div>
 
@@ -107,8 +114,6 @@ author_profile: true
 ## About Me
 
 I am passionate about self-learning, animals, and photography. Soon, I'll share my own photography projects and reflections on nature.
-
-![Animal Photography](https://via.placeholder.com/600x300)
 
 ---
 
