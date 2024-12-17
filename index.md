@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Bienvenido a mi Blog de Aprendizaje"
 description: "Un espacio para documentar mi progreso en matemáticas, programación, visión por computadora y más."
 author_profile: true
