@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
-permalink: /computer-vision/
+permalink: /computer/
 layout: tags
 author_profile: true
 ---
