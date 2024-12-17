@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Diego Ramos"
-  avatar : "assets/images/pic_user.webp"
+  avatar : "assets/images/lex_profile.png"
   bio    : "Graduate student in Electronic Engineering with an interest in Computer Vision."
   links:
     - label: "Website"
