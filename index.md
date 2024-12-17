@@ -10,10 +10,65 @@ author_profile: true
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-Welcome! This blog is a record of my learning journey in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I'm passionate about.
+Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.
 
 ---
 
+<!-- Inline styles for the grid -->
+<style>
+/* Grid layout */
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 1.5rem; /* Space between cells */
+  margin: 2rem 0;
+}
+
+.grid-item {
+  text-align: center;
+  background: #f9f9f9; /* Light background */
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.grid-item img {
+  width: 100%; /* Image takes up 100% of the container */
+  max-width: 300px; /* Max image width */
+  height: auto; /* Keeps proportion */
+  margin: 0 auto 1rem; /* Centers and adds space below */
+  display: block;
+  border-radius: 8px; /* Rounded corners */
+}
+
+.grid-item h3 {
+  margin: 0.5rem 0;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.grid-item p {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Media query for small screens (less than 768px) */
+@media (max-width: 768px) {
+  .grid-wrapper {
+    grid-template-columns: 1fr; /* One column on small screens */
+  }
+
+  .grid-item h3 {
+    font-size: 1.2rem; /* Adjust text size */
+  }
+
+  .grid-item p {
+    font-size: 0.9rem; /* Adjust text size */
+  }
+}  
+</style>
+
+<!-- Main container -->
 ## Main Sections
 
 <div class="grid-wrapper">
@@ -21,7 +76,7 @@ Welcome! This blog is a record of my learning journey in mathematics, programmin
   <div class="grid-item">
     <h3>Mathematics</h3>
     <img src="https://via.placeholder.com/600x300" alt="Calculus">
-    <p>In this section, you’ll find summaries of key concepts such as calculus, linear algebra, transforms, and differential equations.</p>
+    <p>In this section, you'll find summaries of fundamental concepts such as calculus, linear algebra, transforms, and differential equations.</p>
   </div>
 
   <!-- Programming Section -->
@@ -42,71 +97,20 @@ Welcome! This blog is a record of my learning journey in mathematics, programmin
   <div class="grid-item">
     <h3>Photography</h3>
     <img src="https://via.placeholder.com/600x300" alt="Photography">
-    <p>Explore how technology transforms photography, from capturing high-quality images to advanced processing through algorithms, offering new ways to understand and create impactful images.</p>
-  </div>
+    <p>Explore how technology transforms photography, from capturing high-quality images to advanced processing with algorithms, offering new ways to understand and create impactful images.</p>
+  </div>  
 </div>
 
 ---
 
 ## About Me
 
-I am passionate about self-learning, animals, and photography. I will soon share my own photographic projects and reflections on nature here.
+I am passionate about self-learning, animals, and photography. Soon, I'll share my own photography projects and reflections on nature.
 
 ![Animal Photography](https://via.placeholder.com/600x300)
 
 ---
 
-<!-- Estilos en línea para la cuadrícula -->
-<style>
-/* Diseño de cuadrícula */
-.grid-wrapper {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr); /* Cuatro columnas */
-  gap: 1.5rem; /* Espacio entre celdas */
-  margin: 2rem 0;
-}
+### Contact Me
 
-.grid-item {
-  text-align: center;
-  background: #f9f9f9; /* Fondo claro */
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.grid-item img {
-  width: 100%; /* Imagen ocupa el 100% del contenedor */
-  max-width: 300px; /* Máximo ancho de imagen */
-  height: auto; /* Mantiene la proporción */
-  margin: 0 auto 1rem; /* Centra y agrega espacio debajo */
-  display: block;
-  border-radius: 8px; /* Bordes redondeados */
-}
-
-.grid-item h3 {
-  margin: 0.5rem 0;
-  font-size: 1.5rem;
-  color: #333;
-}
-
-.grid-item p {
-  font-size: 1rem;
-  color: #555;
-}
-
-/* Media Query para pantallas pequeñas (menos de 768px) */
-@media (max-width: 768px) {
-  .grid-wrapper {
-    grid-template-columns: 1fr; /* Una sola columna en pantallas pequeñas */
-  }
-
-  .grid-item h3 {
-    font-size: 1.2rem; /* Ajustar tamaño de texto */
-  }
-
-  .grid-item p {
-    font-size: 0.9rem; /* Ajustar tamaño de texto */
-  }
-}  
-</style>
-
+Do you have any questions or suggestions? You can contact me on my social media or leave a comment on the posts.
