@@ -1,16 +1,14 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "Mathematics"
-    url: /year-archive/
+    url: /mathematics/
   - title: "Programming"
-    url: /categories/
+    url: /programming/
   - title: "Computer Vision"
     url: /tags/
   - title: "Photography"
-    url: /page-archive/
+    url: /photography/
   - title: "Projects"
-    url: /collection-archive/
+    url: /projects/
   - title: "Papers"
     url: https://google.com
     target: _blank
