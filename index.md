@@ -93,6 +93,13 @@ author_profile: true
     <img src="https://via.placeholder.com/600x300" alt="Visión por Computadora">
     <p>Descubre cómo la tecnología nos permite procesar y entender imágenes y videos, desde redes neuronales convolucionales hasta aplicaciones prácticas.</p>
   </div>
+
+  <!-- Sección Visión por Computadora -->
+  <div class="grid-item">
+    <h3>Fotografía</h3>
+    <img src="https://via.placeholder.com/600x300" alt="Fotografía">
+    <p>Explora cómo la tecnología transforma la fotografía, desde la captura de imágenes de alta calidad hasta el procesamiento avanzado mediante algoritmos, ofreciendo nuevas formas de entender y crear imágenes impactantes.</p>
+  </div>  
 </div>
 
 
