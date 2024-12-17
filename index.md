@@ -5,6 +5,10 @@ description: "Un espacio para documentar mi progreso en matemáticas, programaci
 author_profile: true
 ---
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
 # Introducción
 
 ¡Bienvenido! Este blog es un registro de mi aprendizaje en matemáticas, programación, inteligencia artificial y visión por computadora. Aquí comparto resúmenes, recursos, proyectos y curiosidades de temas que me apasionan.
@@ -48,6 +52,20 @@ author_profile: true
   font-size: 1rem;
   color: #555;
 }
+/* Media Query para pantallas pequeñas (menos de 768px) */
+@media (max-width: 768px) {
+  .grid-wrapper {
+    grid-template-columns: 1fr; /* Una sola columna en pantallas pequeñas */
+  }
+
+  .grid-item h3 {
+    font-size: 1.2rem; /* Ajustar tamaño de texto */
+  }
+
+  .grid-item p {
+    font-size: 0.9rem; /* Ajustar tamaño de texto */
+  }
+}  
 </style>
 
 <!-- Contenedor principal -->
