@@ -89,7 +89,7 @@ author_profile: true
 
   <!-- Sección Visión por Computadora -->
   <div class="grid-item">
-    <h3>Visión por Computadora</h3>
+    <h3>Computer Vision</h3>
     <img src="https://via.placeholder.com/600x300" alt="Visión por Computadora">
     <p>Descubre cómo la tecnología nos permite procesar y entender imágenes y videos, desde redes neuronales convolucionales hasta aplicaciones prácticas.</p>
   </div>
