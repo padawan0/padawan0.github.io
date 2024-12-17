@@ -1,9 +1,53 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Courses"
+    url: /courses/
+    subcategories:
+      - title: "Mathematics"
+        url: /courses/mathematics/
+      - title: "Programming"
+        url: /courses/programming/
+      - title: "Computer Vision"
+        url: /courses/computer-vision/
+      - title: "Photography"
+        url: /courses/photography/
+  
+  - title: "Photography"
+    url: /photography/
+  
+  - title: "Projects"
+    url: /projects/
+  
+  - title: "Papers"
+    url: /papers/
+
+/* Main menu style */
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  margin: 10px 0;
+}
+
+nav .submenu {
+  list-style-type: none;
+  margin-left: 20px;
+}
+
+nav li:hover > .submenu {
+  display: block;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+/* Highlight subcategories on hover */
+nav li:hover > a {
+  color: #0056b3;
+}
+
+nav li > .submenu {
+  display: none;
+}
