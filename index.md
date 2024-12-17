@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: splash
 title: "Welcome to My Learning Blog"
 description: "A space to document my progress in mathematics, programming, computer vision, and more."
 author_profile: true
