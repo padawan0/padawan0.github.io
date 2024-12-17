@@ -9,7 +9,6 @@ author_profile: true
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<br>
 <p>Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.</p>
 
 ---
@@ -77,8 +76,8 @@ author_profile: true
     <a href="/mathematics">
     <h3>Mathematics</h3>
     <img src="assets/images/math_img.png" alt="Mathematics">
-    <p>In this section, you'll find summaries of fundamental concepts such as calculus, linear algebra, transforms, and differential equations.</p>
     </a>
+    <p>In this section, you'll find summaries of fundamental concepts such as calculus, linear algebra, transforms, and differential equations.</p>
   </div>
 
   <!-- Programming Section -->
@@ -86,8 +85,8 @@ author_profile: true
     <a href="/programming">
     <h3>Programming</h3>
     <img src="assets/images/programming_img.png" alt="Programming">
-    <p>Explore tutorials, projects, and algorithms developed with Python, applied to artificial intelligence, computer vision, and data analysis.</p>
     </a>
+    <p>Explore tutorials, projects, and algorithms developed with Python, applied to artificial intelligence, computer vision, and data analysis.</p>
   </div>
 
   <!-- Computer Vision Section -->
@@ -95,17 +94,17 @@ author_profile: true
     <a href="/computer">
     <h3>Computer Vision</h3>
     <img src="assets/images/computer_img.jpg" alt="Computer Vision">
-    <p>Discover how technology allows us to process and understand images and videos, from convolutional neural networks to practical applications.</p>
     </a>
+    <p>Discover how technology allows us to process and understand images and videos, from convolutional neural networks to practical applications.</p>
   </div>
 
   <!-- Photography Section -->
   <div class="grid-item">
     <a href="/photography">
     <h3>Photography</h3>
-    <img src="assets/images/photo_img.jpg" alt="Photography">
-    <p>Explore how technology transforms photography, from capturing high-quality images to advanced processing with algorithms, offering new ways to understand and create impactful images.</p>
+    <img src="assets/images/photo2_img.jpg" alt="Photography">
     </a>
+    <p>Explore how technology transforms photography, from capturing high-quality images to advanced processing with algorithms, offering new ways to understand and create impactful images.</p>
   </div>  
 </div>
 
