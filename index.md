@@ -9,8 +9,7 @@ author_profile: true
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-
-Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.
+<p>Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.</p>
 
 ---
 
