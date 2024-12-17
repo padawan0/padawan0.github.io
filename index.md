@@ -3,14 +3,12 @@ layout: splash
 title: "Welcome to My Learning Blog"
 description: "A space to document my progress in mathematics, programming, computer vision, and more."
 author_profile: true
-search: false
 ---
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-##    
 
 Welcome! This blog is a record of my learning in mathematics, programming, artificial intelligence, and computer vision. Here, I share summaries, resources, projects, and curiosities about topics that I am passionate about.
 
