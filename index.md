@@ -5,6 +5,7 @@ author_profile: true
 description: "A space to document my progress in mathematics, programming, computer vision, and more."
 header:
   overlay_image: /assets/images/banner_3.jpg
+  overlay_filter: 0.5
 ---
 
 <head>
