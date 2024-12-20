@@ -3,7 +3,8 @@ layout: single
 classes: wide
 author_profile: true
 description: "A space to document my progress in mathematics, programming, computer vision, and more."
-
+header:
+  overlay_image: /assets/images/banner_2.png
 ---
 
 <head>
