@@ -1,6 +1,9 @@
 ---
-layout: splash
+layout: single
+classes: wide
+author_profile: true
 description: "A space to document my progress in mathematics, programming, computer vision, and more."
+
 ---
 
 <head>
