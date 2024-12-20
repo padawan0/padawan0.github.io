@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+layout: splash
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
