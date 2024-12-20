@@ -8,12 +8,20 @@ tags:
   - readability
   - standard
 ---
-{% include mathjax.html %}
-La ecuación cuadrática es \( ax^2 + bx + c = 0 \).
-
-La solución de esta ecuación es:
-\[
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\]
-
-Este es un ejemplo de cómo usar LaTeX en tu página.
+<html>
+<head>
+  <title>Mi Página de Matemáticas</title>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+</head>
+<body>
+  <h1>Matemáticas con LaTeX</h1>
+  <p>La fórmula cuadrática es \( ax^2 + bx + c = 0 \).</p>
+  <p>La solución es:
+  \[
+  x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+  \]
+  </p>
+</body>
+</html>
